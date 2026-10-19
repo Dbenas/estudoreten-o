@@ -1,0 +1,7 @@
+*.xlsx
+*.docx
+data/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+roteiro_apresentacao.md
